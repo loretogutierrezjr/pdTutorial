@@ -1,0 +1,5 @@
+I:\tutorials\C#\PD\pdTutorial\var_primitive\bin\Debug\var_primitive.exe.config
+I:\tutorials\C#\PD\pdTutorial\var_primitive\bin\Debug\var_primitive.exe
+I:\tutorials\C#\PD\pdTutorial\var_primitive\bin\Debug\var_primitive.pdb
+I:\tutorials\C#\PD\pdTutorial\var_primitive\obj\Debug\var_primitive.exe
+I:\tutorials\C#\PD\pdTutorial\var_primitive\obj\Debug\var_primitive.pdb

@@ -1,0 +1,9 @@
+I:\tutorials\C#\PD\pdTutorial\pdTutorial\bin\Debug\pdTutorial.exe.config
+I:\tutorials\C#\PD\pdTutorial\pdTutorial\bin\Debug\pdTutorial.exe
+I:\tutorials\C#\PD\pdTutorial\pdTutorial\bin\Debug\pdTutorial.pdb
+I:\tutorials\C#\PD\pdTutorial\pdTutorial\obj\Debug\01_helloWorld.csprojResolveAssemblyReference.cache
+I:\tutorials\C#\PD\pdTutorial\pdTutorial\obj\Debug\pdTutorial.exe
+I:\tutorials\C#\PD\pdTutorial\pdTutorial\obj\Debug\pdTutorial.pdb
+L:\tutorials\C#\PD\pdTutorial\pdTutorial\bin\Debug\pdTutorial.exe.config
+L:\tutorials\C#\PD\pdTutorial\pdTutorial\obj\Debug\pdTutorial.exe
+L:\tutorials\C#\PD\pdTutorial\pdTutorial\obj\Debug\pdTutorial.pdb

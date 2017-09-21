@@ -1,0 +1,1 @@
+I:\tutorials\C#\PD\pdTutorial\pdTutorial\bin\Debug\pdTutorial.exe.config
