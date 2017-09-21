@@ -1,0 +1,5 @@
+I:\tutorials\C#\PD\pdTutorial\04_strings\bin\Debug\04_strings.exe.config
+I:\tutorials\C#\PD\pdTutorial\04_strings\bin\Debug\04_strings.exe
+I:\tutorials\C#\PD\pdTutorial\04_strings\bin\Debug\04_strings.pdb
+I:\tutorials\C#\PD\pdTutorial\04_strings\obj\Debug\04_strings.exe
+I:\tutorials\C#\PD\pdTutorial\04_strings\obj\Debug\04_strings.pdb

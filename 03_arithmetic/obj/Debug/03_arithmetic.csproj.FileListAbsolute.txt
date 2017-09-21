@@ -1,0 +1,5 @@
+I:\tutorials\C#\PD\pdTutorial\03_arithmetic\bin\Debug\03_arithmetic.exe.config
+I:\tutorials\C#\PD\pdTutorial\03_arithmetic\bin\Debug\03_arithmetic.exe
+I:\tutorials\C#\PD\pdTutorial\03_arithmetic\bin\Debug\03_arithmetic.pdb
+I:\tutorials\C#\PD\pdTutorial\03_arithmetic\obj\Debug\03_arithmetic.exe
+I:\tutorials\C#\PD\pdTutorial\03_arithmetic\obj\Debug\03_arithmetic.pdb

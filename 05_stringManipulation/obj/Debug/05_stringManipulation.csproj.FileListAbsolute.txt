@@ -1,0 +1,11 @@
+I:\tutorials\C#\PD\pdTutorial\05_stringManipulation\bin\Debug\05_stringManipulation.exe.config
+I:\tutorials\C#\PD\pdTutorial\05_stringManipulation\bin\Debug\05_stringManipulation.exe
+I:\tutorials\C#\PD\pdTutorial\05_stringManipulation\bin\Debug\05_stringManipulation.pdb
+I:\tutorials\C#\PD\pdTutorial\05_stringManipulation\obj\Debug\05_stringManipulation.exe
+I:\tutorials\C#\PD\pdTutorial\05_stringManipulation\obj\Debug\05_stringManipulation.pdb
+L:\tutorials\C#\PD\pdTutorial\05_stringManipulation\bin\Debug\05_stringManipulation.exe.config
+L:\tutorials\C#\PD\pdTutorial\05_stringManipulation\bin\Debug\05_stringManipulation.exe
+L:\tutorials\C#\PD\pdTutorial\05_stringManipulation\bin\Debug\05_stringManipulation.pdb
+L:\tutorials\C#\PD\pdTutorial\05_stringManipulation\obj\Debug\05_stringManipulation.csprojResolveAssemblyReference.cache
+L:\tutorials\C#\PD\pdTutorial\05_stringManipulation\obj\Debug\05_stringManipulation.exe
+L:\tutorials\C#\PD\pdTutorial\05_stringManipulation\obj\Debug\05_stringManipulation.pdb
