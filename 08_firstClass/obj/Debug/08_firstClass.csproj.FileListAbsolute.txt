@@ -1,0 +1,12 @@
+L:\tutorials\C#\PD\pdTutorial\08_firstClass\bin\Debug\08_firstClass.exe.config
+L:\tutorials\C#\PD\pdTutorial\08_firstClass\bin\Debug\08_firstClass.exe
+L:\tutorials\C#\PD\pdTutorial\08_firstClass\bin\Debug\08_firstClass.pdb
+L:\tutorials\C#\PD\pdTutorial\08_firstClass\obj\Debug\08_firstClass.csprojResolveAssemblyReference.cache
+L:\tutorials\C#\PD\pdTutorial\08_firstClass\obj\Debug\08_firstClass.exe
+L:\tutorials\C#\PD\pdTutorial\08_firstClass\obj\Debug\08_firstClass.pdb
+I:\tutorials\C#\PD\pdTutorial\08_firstClass\bin\Debug\08_firstClass.exe.config
+I:\tutorials\C#\PD\pdTutorial\08_firstClass\bin\Debug\08_firstClass.exe
+I:\tutorials\C#\PD\pdTutorial\08_firstClass\bin\Debug\08_firstClass.pdb
+I:\tutorials\C#\PD\pdTutorial\08_firstClass\obj\Debug\08_firstClass.csprojResolveAssemblyReference.cache
+I:\tutorials\C#\PD\pdTutorial\08_firstClass\obj\Debug\08_firstClass.exe
+I:\tutorials\C#\PD\pdTutorial\08_firstClass\obj\Debug\08_firstClass.pdb

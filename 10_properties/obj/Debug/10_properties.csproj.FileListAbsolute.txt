@@ -1,0 +1,11 @@
+L:\tutorials\C#\PD\pdTutorial\10_properties\bin\Debug\10_properties.exe.config
+L:\tutorials\C#\PD\pdTutorial\10_properties\bin\Debug\10_properties.exe
+L:\tutorials\C#\PD\pdTutorial\10_properties\bin\Debug\10_properties.pdb
+L:\tutorials\C#\PD\pdTutorial\10_properties\obj\Debug\10_properties.exe
+L:\tutorials\C#\PD\pdTutorial\10_properties\obj\Debug\10_properties.pdb
+I:\tutorials\C#\PD\pdTutorial\10_properties\bin\Debug\10_properties.exe.config
+I:\tutorials\C#\PD\pdTutorial\10_properties\bin\Debug\10_properties.exe
+I:\tutorials\C#\PD\pdTutorial\10_properties\bin\Debug\10_properties.pdb
+I:\tutorials\C#\PD\pdTutorial\10_properties\obj\Debug\10_properties.csprojResolveAssemblyReference.cache
+I:\tutorials\C#\PD\pdTutorial\10_properties\obj\Debug\10_properties.exe
+I:\tutorials\C#\PD\pdTutorial\10_properties\obj\Debug\10_properties.pdb

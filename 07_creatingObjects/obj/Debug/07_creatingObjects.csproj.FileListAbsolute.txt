@@ -1,0 +1,6 @@
+L:\tutorials\C#\PD\pdTutorial\07_creatingObjects\bin\Debug\07_creatingObjects.exe.config
+L:\tutorials\C#\PD\pdTutorial\07_creatingObjects\bin\Debug\07_creatingObjects.exe
+L:\tutorials\C#\PD\pdTutorial\07_creatingObjects\bin\Debug\07_creatingObjects.pdb
+L:\tutorials\C#\PD\pdTutorial\07_creatingObjects\obj\Debug\07_creatingObjects.csprojResolveAssemblyReference.cache
+L:\tutorials\C#\PD\pdTutorial\07_creatingObjects\obj\Debug\07_creatingObjects.exe
+L:\tutorials\C#\PD\pdTutorial\07_creatingObjects\obj\Debug\07_creatingObjects.pdb
