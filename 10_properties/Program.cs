@@ -20,6 +20,9 @@ namespace _10_properties
             Console.WriteLine(name.FirstName);
             Console.WriteLine(name.LastName);
 
+            Console.WriteLine(name);
+
+
             Console.ReadKey();
 
         }
