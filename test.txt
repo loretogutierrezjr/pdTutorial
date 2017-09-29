@@ -1,1 +1,20 @@
 This is the test txt for new file.
+
+git clone "link.git" --> clone a repo
+
+touch "filename"
+
+vim "filename" --> to edit the added file
+
+git status --> view the status to be added (files in red)
+
+git add "filename" --> to add first before commit (file in green)
+
+git commit -m "message".
+
+git push origin master
+
+
+================================
+git config --global --edit --> edit and config the name user
+
