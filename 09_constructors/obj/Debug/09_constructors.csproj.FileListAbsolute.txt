@@ -1,0 +1,6 @@
+D:\Package\tuts\repos\pdTutorial\09_constructors\bin\Debug\09_constructors.exe.config
+D:\Package\tuts\repos\pdTutorial\09_constructors\bin\Debug\09_constructors.exe
+D:\Package\tuts\repos\pdTutorial\09_constructors\bin\Debug\09_constructors.pdb
+D:\Package\tuts\repos\pdTutorial\09_constructors\obj\Debug\09_constructors.csprojResolveAssemblyReference.cache
+D:\Package\tuts\repos\pdTutorial\09_constructors\obj\Debug\09_constructors.exe
+D:\Package\tuts\repos\pdTutorial\09_constructors\obj\Debug\09_constructors.pdb
