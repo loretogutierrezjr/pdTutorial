@@ -13,8 +13,15 @@ namespace _10_properties
             myClassProp.Person person = new myClassProp.Person("John", "Doe");
             person.FirstName = "Xavier";
             Console.WriteLine(person.FirstName);
-            Console.WriteLine(person.LastName); Console.ReadKey();
-            
+            Console.WriteLine(person.LastName); 
+
+            myClassProp.Person name = new myClassProp.Person("Loreto", "Gutierrez");
+            name.FirstName = "Retz";
+            Console.WriteLine(name.FirstName);
+            Console.WriteLine(name.LastName);
+
+            Console.ReadKey();
+
         }
     }
 }
