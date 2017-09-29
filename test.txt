@@ -14,7 +14,11 @@ git add "filename" --> to add first before commit (file in green)
 
 git commit -m "message".
 
-git push origin master
+git push origin master --> push new edit or file
+
+---------------------
+
+git pull origin master --> pull new edit or file from others
 
 
 ================================
