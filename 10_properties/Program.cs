@@ -23,6 +23,7 @@ namespace _10_properties
             Console.WriteLine(name);
 
             //this a readkey
+	    //another comment from helpdesk
             Console.ReadKey();
 
         }
