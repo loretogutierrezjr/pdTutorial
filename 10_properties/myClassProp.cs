@@ -35,6 +35,7 @@ namespace _10_properties
             public string sayHello(string name)
             {
                 return "Hello, " + name;
+                //this is a nother comment
             }
         }
     }
