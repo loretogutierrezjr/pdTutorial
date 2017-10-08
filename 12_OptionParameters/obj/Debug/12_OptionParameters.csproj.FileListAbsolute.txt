@@ -1,0 +1,6 @@
+L:\tutorials\C#\PD\pdTutorial\12_OptionParameters\bin\Debug\12_OptionParameters.exe.config
+L:\tutorials\C#\PD\pdTutorial\12_OptionParameters\bin\Debug\12_OptionParameters.exe
+L:\tutorials\C#\PD\pdTutorial\12_OptionParameters\bin\Debug\12_OptionParameters.pdb
+L:\tutorials\C#\PD\pdTutorial\12_OptionParameters\obj\Debug\12_OptionParameters.csprojResolveAssemblyReference.cache
+L:\tutorials\C#\PD\pdTutorial\12_OptionParameters\obj\Debug\12_OptionParameters.exe
+L:\tutorials\C#\PD\pdTutorial\12_OptionParameters\obj\Debug\12_OptionParameters.pdb
