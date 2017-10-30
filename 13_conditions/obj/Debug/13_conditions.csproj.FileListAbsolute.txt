@@ -1,0 +1,6 @@
+L:\tutorials\C#\PD\pdTutorial\13_conditions\bin\Debug\13_conditions.exe.config
+L:\tutorials\C#\PD\pdTutorial\13_conditions\bin\Debug\13_conditions.exe
+L:\tutorials\C#\PD\pdTutorial\13_conditions\bin\Debug\13_conditions.pdb
+L:\tutorials\C#\PD\pdTutorial\13_conditions\obj\Debug\13_conditions.exe
+L:\tutorials\C#\PD\pdTutorial\13_conditions\obj\Debug\13_conditions.pdb
+L:\tutorials\C#\PD\pdTutorial\13_conditions\obj\Debug\13_conditions.csprojResolveAssemblyReference.cache
