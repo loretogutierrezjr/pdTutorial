@@ -26,8 +26,48 @@ namespace _13_conditions
 
             //-------------
 
+            bool hasValue = !string.IsNullOrEmpty("test");
+            Console.WriteLine(hasValue);
 
+            //-------------
 
+            int month = 2;
+            if (month == 1)
+            {
+                Console.WriteLine("January");
+
+            }
+            else if (month == 2)
+            {
+                Console.WriteLine("February");
+            }
+            else
+            {
+                Console.WriteLine("March - December");
+            }
+
+            //-------------
+
+            string firstName = loreto != null ? loreto.Name : string.Empty;
+            Console.WriteLine(firstName);
+
+            //-------------
+
+            switch (month)
+            {
+                case 1:
+                    Console.WriteLine("January");
+                    break;
+                case 2:
+                    Console.WriteLine("February");
+                    break;
+                case 3:
+                    Console.WriteLine("March");
+                    break;
+                default:
+                    Console.WriteLine("April-December");
+                    break;
+            }
 
             //-------------
             Console.ReadKey();
