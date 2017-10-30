@@ -1,0 +1,6 @@
+L:\tutorials\C#\PD\pdTutorial\14_validatingParameters\bin\Debug\14_validatingParameters.exe.config
+L:\tutorials\C#\PD\pdTutorial\14_validatingParameters\bin\Debug\14_validatingParameters.exe
+L:\tutorials\C#\PD\pdTutorial\14_validatingParameters\bin\Debug\14_validatingParameters.pdb
+L:\tutorials\C#\PD\pdTutorial\14_validatingParameters\obj\Debug\14_validatingParameters.csprojResolveAssemblyReference.cache
+L:\tutorials\C#\PD\pdTutorial\14_validatingParameters\obj\Debug\14_validatingParameters.exe
+L:\tutorials\C#\PD\pdTutorial\14_validatingParameters\obj\Debug\14_validatingParameters.pdb
